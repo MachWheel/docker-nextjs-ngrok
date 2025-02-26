@@ -1,0 +1,7 @@
+version: "2"
+authtoken: YOUR_authtoken_HERE
+tunnels:
+  nextjs:
+    addr: 0.0.0.0:3000
+    proto: http
+    hostname: YOUR_hostname_HERE
