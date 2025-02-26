@@ -13,10 +13,10 @@
 ### 1. Replace `authtoken` and `hostname` values in `./ngrok.yml`
 
 
-### 2. Replace the `./out` folder.
+### 2. Replace the `./out` folder with yours
 
 
-### 3. Inside `./` build the container:
+### 3. Inside `./` execute:
 ```
 docker build -t docker-nextjs-ngrok .
 ```
